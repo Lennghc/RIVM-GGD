@@ -1,0 +1,37 @@
+body{
+	background-color: #fdf6bb;
+}
+
+.placelink{
+	margin-left: 200px;
+}
+
+
+h1{
+text-align: center;
+	
+}
+
+#vaccins tr{
+	background-color: #f2f2f2;
+}
+
+#vaccins {
+  margin-left: 200px;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+#vaccins td, #vaccins th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+
+#vaccins th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:  #f9e11e;
+  color: white;
+}

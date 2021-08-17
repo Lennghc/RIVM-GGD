@@ -1,0 +1,17 @@
+
+/*gebruik ik voor de deleteconfirm.php en de addresult.php*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  
+  font-family: 'Poppins',sans-serif;
+}
+
+body{
+	background-color: #fdf6bb;
+}
+
+.lineup,h1{
+	float: center;
+	text-align: center;
+}
