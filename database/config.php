@@ -1,12 +1,12 @@
 <?php
 
-$dbhost = "panel.lennghc.nl";
+$dbhost = "";
 
-$dbuser = "pterodactyl";
+$dbuser = "";
 
-$dbpass = "VqjGqIhBMGGltMKZWCaxHyzr";
+$dbpass = "";
 
-$dbname = "Projecten";
+$dbname = "";
 
 
 
